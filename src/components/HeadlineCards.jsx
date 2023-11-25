@@ -9,6 +9,7 @@ const HeadlineCards = () => {
         <div className="absolute w-full h-full bg-black/50 rounded-xl text-white">
           <p className="font-bold text-2xl px-2 pt-4">Sun's out,BOGO's out</p>
           <p className="px-2">Through 8/26</p>
+          <p>hello shradhha</p>
           <button className="border-white bg-green-400 text-white mx-3 absolute bottom-4 rounded-md p-2">Order Now</button>
         </div>
         <img className=" max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl" src="https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=400" alt="/" />
